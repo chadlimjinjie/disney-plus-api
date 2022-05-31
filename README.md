@@ -3,6 +3,7 @@ Get episode titles and release dates of Disney+ series
 
 ### Motivation
 Help ease access for other developers looking to write applications to poll for the latest episode titles and/or release dates of Disney+ series
+
 All copyrights belongs to The Walt Disney Company
 
 ### Want to contribute?
