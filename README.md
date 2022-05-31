@@ -6,6 +6,20 @@ Help ease access for other developers looking to write applications to poll for 
 
 All copyrights belongs to The Walt Disney Company
 
+### Usage
+```python
+
+import requests
+
+// 1. Read json file
+// 2. 
+series = {}
+series_id = "moon-knight"
+
+res = requests.get(series[series_id])
+res_data = res.json()
+```
+
 ### Want to contribute?
 - Read `Adding a new title`
 
