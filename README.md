@@ -25,3 +25,5 @@ Take the short link and the URI and present it in a key:value format
 ```json
 "moon-knight": "https://disney.content.edge.bamgrid.com/svc/content/DmcSeriesBundle/version/5.1/region/SG/audience/k-false,l-true/maturity/1870/language/en-GB/encodedSeriesId/4S3oOF1knocS"
 ```
+
+Update series.json and create a pull request
