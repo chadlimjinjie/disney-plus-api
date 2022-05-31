@@ -1,4 +1,4 @@
-# Disney Plus API
+# Disney Plus Series API/Disney+ Series API
 Get episode titles and release dates of Disney+ series
 
 ### Motivation
